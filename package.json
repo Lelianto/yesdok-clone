@@ -1,0 +1,18 @@
+{
+  "name": "yesdok-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {}
+}
